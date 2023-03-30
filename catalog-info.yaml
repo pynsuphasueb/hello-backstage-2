@@ -1,0 +1,24 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sky
+  description: color of sky
+  tags:
+    - public data
+  links:
+    - url: https://en.wikipedia.org/wiki/Sky_blue
+      title: sky blue wiki
+      icon: user
+      icon: web
+    - url: https://medium.com/the-shadow/the-colours-of-the-sky-20ee98e6a9de
+      title: the color of sky
+      icon: alert
+  # annotations:
+    # backstage.io/linguist: 'https://github.com/backstage/backstage/tree/master/plugins/playlist'
+spec:
+  type: web
+  lifecycle: experimental
+  owner: team-a
+  # system: artist-engagement-portal
+  # dependsOn: ['resource:artists-db']
+  # apiConsumedBy: ['component:www-artist']
