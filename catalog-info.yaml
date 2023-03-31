@@ -5,6 +5,10 @@ metadata:
   description: color of sky
   annotations:
     github.com/project-slug: pynsuphasueb/hello-backstage-2
+  links:
+    - url: https://dashboard.example.com
+      title: My Dashboard
+      icon: dashboard
 spec:
   type: web
   lifecycle: experimental
