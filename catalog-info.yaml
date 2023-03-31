@@ -9,6 +9,8 @@ metadata:
     - url: https://dashboard.example.com
       title: My Dashboard
       icon: dashboard
+  tags:
+    - sky
 spec:
   type: web
   lifecycle: experimental
