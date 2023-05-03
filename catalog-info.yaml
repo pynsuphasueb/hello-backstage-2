@@ -4,7 +4,7 @@ metadata:
   name: hello-backstage-2
   description: color of sky
   annotations:
-    github.com/project-slug: https://github.com/pynsuphasueb/hello-backstage-2
+    github.com/project-slug: https://github.com/pynsuphasueb/hello-backstage-2/blob/main/catalog-info.yaml
   links:
     - url: https://dashboard.example.com
       title: My Dashboard
