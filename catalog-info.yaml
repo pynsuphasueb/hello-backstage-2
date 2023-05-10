@@ -5,6 +5,7 @@ metadata:
   description: color of sky
   annotations:
     github.com/project-slug: https://github.com/pynsuphasueb/hello-backstage-2/blob/main/catalog-info.yaml
+    argocd/app-name: backstage
   links:
     - url: https://dashboard.example.com
       title: My Dashboard
